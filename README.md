@@ -81,9 +81,9 @@ File Structure
 personalized-voice-assistant/
 │
 ├── .env                     # Environment variables file
-├── voice_assistant.py       # Main script
-├── README.md                # Documentation
-└── requirements.txt         # Dependencies (optional)
+├── voice.py                 # Main script
+├── README                   # Documentation
+└── requirements.txt         # Dependencies
 ```
 
 ---
